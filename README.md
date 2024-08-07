@@ -1,3 +1,6 @@
+This repository contains files modified to match the recent HMF pipeline output.
+
+
 Identifying gene amplification and biallelic losses
 ================
 
